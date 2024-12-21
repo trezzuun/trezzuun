@@ -1,5 +1,7 @@
-<div align="center">
-     <h1>Hi there, I'm Garxu! 👋</h1>
+<div>
+     <font face="Arial">
+     <div align="center">
+     <h1>Hi there, I'm <a href="https://youtube.com/@joethelogoguy/">Garxu!<a/> 👋</h1>
 </div>
 
 <div align="center">
@@ -47,4 +49,6 @@
 
 <div align="center">
      Made with 💖 © 2022 GitHub, Inc.
+</div>
+</font>
 </div>
